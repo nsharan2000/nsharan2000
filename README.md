@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm sharan, I Love to gain knowledge and discover new things. I can fit into any role. I love coding, in general. I can code in python and c++ and have done many machine learning projects. I'm a tech enthusiast with a huge interest in the EduTech industry and Artificial Intelligence
+I'm sharan from India, I Love to gain knowledge and discover new things. I can fit into any role and love coding in general. You can see my machine learning projects on this page. I'm a tech enthusiast with a huge interest in the EduTech industry and Artificial Intelligence. 
 
 ### Skills: 
 * 🧠 Deep learning | computer vision | NLP
