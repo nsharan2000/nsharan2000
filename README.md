@@ -1,12 +1,10 @@
 ### Hi there 👋
-
 I'm sharan from India, I Love to gain knowledge and discover new things. I can fit into any role and love coding in general. You can see my machine learning projects on this page. I'm a tech enthusiast with a huge interest in the EduTech industry and Artificial Intelligence. 
 
 ### Skills: 
 * 🧠 Deep learning | computer vision | NLP
-* 💻 Python| C++
+* 💻 Python | C++
 * ⚙️ Cloud computing | Tensorflow | OpenCV
-
 
 ### You can reach me at:
 
